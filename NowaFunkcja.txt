@@ -1,1 +1,2 @@
 Zmiana do gałęzi rozwój
+Dodaje nowe funkcje
