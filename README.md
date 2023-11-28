@@ -1,0 +1,1 @@
+Plik przykładowy do repo.
